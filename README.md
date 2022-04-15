@@ -1,2 +1,3 @@
-# cirq-tutorial
-Tutorial introdutório a Cirq (biblioteca python para programação quântica)
+# Tutorial básico, com conceitos inciais, para iniciantes
+
+
